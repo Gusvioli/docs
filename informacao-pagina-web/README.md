@@ -28,6 +28,18 @@ Esta é uma extensão para o Google Chrome que extrai e exibe informações deta
 4. Envie para a branch original: `git push origin minha-feature`
 5. Crie um pull request.
 
+## Histórico de Versões (Changelog)
+
+### v1.1 (21/01/2026)
+- **Internacionalização:** Suporte completo para Português (pt_BR) e Inglês (en), com seletor de idioma dinâmico.
+- **Doações:** Integração com PayPal e geração de QR Code para facilitar o apoio ao desenvolvimento.
+- **Interface:** Adicionado indicador de carregamento (spinner) para melhor feedback visual.
+- **Correções:** Tratamento de erros para URLs restritas (`chrome://`, `chrome-extension://`) e correções na estrutura de pastas (`_locales`).
+- **Relatórios:** Adicionado gráfico visual de distribuição de cabeçalhos (H1-H6) no relatório completo.
+
+### v1.0
+- Lançamento inicial com análise de metadados, SEO, conteúdo técnico e elementos ocultos.
+
 ## Criador
 
 - **Gustavo Violi** - [GitHub](https://github.com/gusvioli) | [LinkedIn](https://www.linkedin.com/in/gustavo-violi/)
